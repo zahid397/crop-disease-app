@@ -1,0 +1,3 @@
+Potato_Early_Blight
+Tomato_Late_Blight
+Healthy
